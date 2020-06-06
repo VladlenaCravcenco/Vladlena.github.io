@@ -1,0 +1,28 @@
+//адаптация для смарфонов
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {}
+
+
+//адаптация для планшетов
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {}
+
+
+//настольные компьютеры и ноутбуки
+
+@media only screen and (min-width : 1224px) {}
+
+
+//большие мониторы
+
+@media only screen and (min-width : 1824px) {}
+
+
+
+
+
+
+
+
+
+
